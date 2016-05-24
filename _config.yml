@@ -12,7 +12,7 @@ url: "http://jcalejero.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /jcalejero.github.io
 
 # Google tracking id to track your visitors
 
