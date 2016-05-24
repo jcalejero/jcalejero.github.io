@@ -167,7 +167,6 @@ social:
 
 pages_list:
   Blog: 'latest-post'
-  Blog: 'posts'
   #Timeline: 'timeline'
   About: 'about'
   Contact: 'contact'
