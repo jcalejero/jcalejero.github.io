@@ -1,8 +1,11 @@
 ---
 layout: post
+section-type: post
 comments: true
 title: Nuevo Repo bioinformatics_codes
 subtitle: Mis códigos para el proyecto Rosalind
+category: Code
+tags: [ 'Code', 'R' ]
 ---
 
 ![alt text](http://rosalind.info/static/img/logo.png?v=1384701438 "Rosalind Logo")

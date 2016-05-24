@@ -1,8 +1,11 @@
 ---
 layout: post
+section-type: post
 comments: true
 title: Candyman Candyman DataDrivenCompany
 subtitle: No, no es una pesadilla, es una película de terror
+category: MGMT
+tags: [ 'Data Driven Company' ]
 ---
 
 ![alt text](http://ia.media-imdb.com/images/M/MV5BMTYzOTk5MDMwNl5BMl5BanBnXkFtZTcwMTE0MDIyMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg "Candyman Movie")

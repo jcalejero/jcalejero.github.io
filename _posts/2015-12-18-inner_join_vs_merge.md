@@ -1,8 +1,11 @@
 ---
 layout: post
+section-type: post
 comments: true
 title: left_join vs merge(x, y, by='', all.x=TRUE)
 subtitle: ¿A quién prefieres, a papá o a mamá?
+category: R
+tags: [ 'R', 'Packages' ]
 ---
 
 Quien trabaje con datos... con grandes volúmenes y tenga que cruzar dos datasets sabrá que a veces es una tarea ardua y dura. Además, existen varias combinaciones posibles de JOINS: *left*, *right*, *inner*... En la siguiente imagen podemos ver un ejemplo visual que ayudará a comprender cada uno de ellos:

@@ -1,8 +1,11 @@
 ---
 layout: post
+section-type: post
 comments: true
 title: OKR Los amas, los odias...
 subtitle: ... pero... ¿los entiendes?
+category: MGMT
+tags: [ 'OKR' ]
 ---
 
 La primera vez que oí el acrónimo OKRs fue en febrero de 2014... buff, casi ya dos años. En una primera fase intentamos implementarlos en el departamento de Datos pero fue el resultado fue... abandono a mitad del trimestre. Hace poco más de 2 meses intentamos volver a implementarlos a nivel de MGMT y en esa segunda etapa hemos sido algo más constantes pero seguimos sin estar del todo satisfechos.

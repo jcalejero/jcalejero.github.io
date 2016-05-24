@@ -1,8 +1,11 @@
 ---
 layout: post
+section-type: post
 comments: true
 title: ANECUP un empate para nada imposible
 subtitle: ya lo dicen... impossible is nothing
+category: Data
+tags: [ 'Data Analysis' ]
 ---
 
 **¡Empate!** 

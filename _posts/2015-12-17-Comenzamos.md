@@ -1,8 +1,11 @@
 ---
 layout: post
+section-type: post
 comments: true
 title: ¿Comenzamos?
-subtitle: Primera piedra de este nuevo proyecto 
+subtitle: Primera piedra de este nuevo proyecto
+category: bio
+tags: [ 'bio' ]
 ---
 
 Los inicios son siempre complicados aunque llenos de ilusión. Hoy, arranco este nuevo blog en el que pretendo compartir mis experiencias como *Data Scientist*, tanto organizativas como prácticas. Pero... ¿quién soy yo?
