@@ -63,8 +63,8 @@ me-img: "/img/jetpacktocat.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
+color-browser: "#FFFFFF"
+apple-status-bar-style: "white"
 
 ################
 # Web app mode #
