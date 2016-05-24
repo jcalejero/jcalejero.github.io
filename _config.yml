@@ -110,11 +110,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "May 24th"
+    description: "¡Cambio de look!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "2015-12-17"
+    description: "¡Comenzamos!"
 
 # First image of the Timeline
 
@@ -147,13 +147,11 @@ social:
   - title: "twitter"
     url: "https://twitter.com/InsideAlgorithm"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/jcalejero"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/calejero"
   - title: "rss"
     url: "/feed.xml"
-  - title: "Linkedin"
-    url: "https://www.linkedin.com/in/calejero"
 
 ############
 # 404 page #
