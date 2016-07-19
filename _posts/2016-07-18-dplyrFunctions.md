@@ -20,9 +20,9 @@ El experimento que voy a llevar a cabo es comparar 10 ejecuciones usando *merge(
 **Los resultados:**
 
 Tiempo de ejecución usando *merge()*
-[alt text](https://jcalejero.github.io/jcalejero.github.io/img/merge.jpg "merge")
+[alt text](https://jcalejero.github.io/jcalejero.github.io/img/merge.png "merge")
 
 Tiempo de ejecución usando *left_join()*
-[alt text](https://jcalejero.github.io/jcalejero.github.io/img/left_join.jpg "left_join")
+[alt text](https://jcalejero.github.io/jcalejero.github.io/img/left_join.png "left_join")
 
 Podemos ver cómo usando la función *merge()* el tiempo de ejecución se sitúa próximo al minuto de forma estable. Sin embargo, con la función *left_join()*, el tiempo de ejecución se reduce a un par de segundos. Por lo tanto, podemos reducir el tiempo de ejecución de nuestros _scripts_ con fusiones de tablas grandes de forma brutal.
