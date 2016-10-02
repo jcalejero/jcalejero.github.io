@@ -46,9 +46,13 @@ hacer girar todos los esfuerzos de la compañía alrededor del número que
 permite el seguimiento de ese objetivo. En Frogtek nuestro "mayor logro"
 respecto a números críticos fue *misión 1001*. El número crítico debe
 ser: 
+
 - diario.- Debemos poder medir día a día la evolución del número crítico. 
+
 - simple.- Nada de cálculos complicados ni de conceptos difíciles de entender. 
+
 - alineado.- Debe estar alineado con el objetivo máximo del trimestre. 
+
 - público y presente.- Toda la compañía debe  conocer el número, su significado y 
 debe tenerlo visible.
 
@@ -56,9 +60,14 @@ Existe un *checklist* para ello:
 
 *Todos se alinean con la prioridad #1 a cumplirse en el trimestre para
 que prospere la empresa.* 
+
 - 5 prioridades (Rocas) están identificadas y en orden para el trimestre 
+
 - Un Número Crítico está identificado y alineado con la prioridad #1 
+
 - Un Tema se establece trimestralmente y aporta Prioridad Clave/Número Crítico actualizado 
+
 - Se coloca un Tablero con el Número Crítico y se anuncia el Tema 
+
 - Todos los empleados saben cual será la Celebración/Recompensa
 
