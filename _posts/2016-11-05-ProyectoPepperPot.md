@@ -31,7 +31,7 @@ library(stringr)
 
 * _Web_ _scraping_ y construcción del _dataset_ 
 
-```sh R
+```R
 GetGamesStatsByYear <- function(year = 2011) {
   url <- BuildURLStrings(year)
   tables <- readHTMLTable(url)
