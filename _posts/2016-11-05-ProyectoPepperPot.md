@@ -2,7 +2,7 @@
 layout: post 
 section-type: post 
 comments: true 
-title: Proyecto Pepper Pot Parte I : Cómo generar el dataset de datos
+title: Proyecto Pepper Pot Parte I
 category: Data 
 tags: [ 'RCode' ] 
 ---
@@ -71,4 +71,5 @@ Para generar los datos para la temporada 2017 basta con ejecutar:
 ```R
 data <- GenerateRawDataNHLGames(2017)
 ```
+
 ![N|Solid](https://jcalejero.github.io/jcalejero.github.io/img/nhl_dataset.png)
