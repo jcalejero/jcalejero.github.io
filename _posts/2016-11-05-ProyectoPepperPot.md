@@ -79,4 +79,4 @@ Para generar los datos para la temporada 2017 basta con ejecutar:
 data <- GenerateRawDataNHLGames(2017)
 ```
 
-![N|Solid](https://jcalejero.github.io/jcalejero.github.io/img/nhl_dataset.png)
+!(https://jcalejero.github.io/jcalejero.github.io/img/nhl_dataset.png)
