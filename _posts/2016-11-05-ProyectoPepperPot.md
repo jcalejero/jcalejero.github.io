@@ -7,7 +7,7 @@ category: Data
 tags: [ 'RCode' ] 
 ---
 
-# Proyecto Pepper pot
+# _Web_ _scraping_ y construcción del _dataset_ 
 
 Hace ya bastantes semanas decidí dedicar tiempo a un pequeño proyecto que me ayudara a practicar algunas técnicas de predicción, modelado o _web_ _scraping_. El tema: NHL. Sí, debo reconocerlo. Me encanta el hockey sobre hielo y casi todos los años compro el gamepass (aprovechando siempre alguna oferta). Me gusta por que es un deporte (y una liga) donde a partir de la jornada 20-25 ya empiezan a aparecer ciertos patrones que, una vez detectados, es fácil explotarlos para... sí, ganar dinero apostando. 
 
@@ -29,7 +29,6 @@ library(XML)
 library(stringr)
 ```
 
-* _Web_ _scraping_ y construcción del _dataset_ 
 
 ```R
 GetGamesStatsByYear <- function(year = 2011) {
