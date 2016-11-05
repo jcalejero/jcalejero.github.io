@@ -23,10 +23,12 @@ _Si a alguien le interesa el dato, tengo un 87% de acierto en partidos de NHL_.
 
 ### Código en R
 * Paquetes necesarios
+
 ```R
 library(XML)
 library(stringr)
 ```
+
 * _Web_ _scraping_ y construcción del _dataset_ 
 
 ```sh R
@@ -35,12 +37,16 @@ GetGamesStatsByYear <- function(year = 2011) {
   tables <- readHTMLTable(url)
   return(tables)
 }
+```
 
+```R
 BuildURLStrings <- function(year) {
   url <- paste0("http://www.hockey-reference.com/leagues/NHL_", year, "_games.html")
   return(url)
 }
+```
 
+```R
 BuildNHLMatchDataFrame <- function(data, PO) {
   if (PO == FALSE) {
     n.rows <- unlist(lapply(data, function(t) dim(t)[1]))
@@ -54,20 +60,22 @@ BuildNHLMatchDataFrame <- function(data, PO) {
   table.games$OT <- table.games$OTCat=="OT"|table.games$OTCat=="SO"
   return(table.games)
 }
+```
 
+```R
 GenerateRawDataNHLGames <- function(years = c(2011, 2012), PO = FALSE) {
   raw.data <- NULL
   for (year in years) {
     year.data <- GetGamesStatsByYear(year)
     year.data.processed <- BuildNHLMatchDataFrame(year.data, PO)
     raw.data <- rbind(raw.data, year.data.processed)
-  }
-  
+  }  
   return(raw.data)
 }
 ```
 
 Para generar los datos para la temporada 2017 basta con ejecutar:
+
 ```R
 data <- GenerateRawDataNHLGames(2017)
 ```
